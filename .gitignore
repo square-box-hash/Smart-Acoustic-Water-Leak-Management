@@ -1,0 +1,14 @@
+@"
+venv/
+__pycache__/
+*.pyc
+
+# large/regeneratable data
+*.pkl
+*.npz
+trials.pkl
+"@ | Out-File -Encoding utf8 .gitignorewindowed_v2.csv
+trials_with_features.csv
+hydrophone_verifier_check.csv
+band_energy_generalization.csv
+NCSC Pipe Leak Detection.txt

@@ -1,0 +1,17 @@
+trial_file,actual,predicted,n_windows
+BR_CC_ND_A1,Circumferential Crack,Orifice Leak,51
+BR_CC_Transient_A2,Circumferential Crack,Longitudinal Crack,51
+BR_GL_0.18 LPS_A2,Gasket Leak,Orifice Leak,50
+BR_GL_ND_A1,Gasket Leak,Gasket Leak,51
+BR_NL_0.18 LPS_A2,No Leak,No Leak,51
+BR_NL_0.47 LPS_A2,No Leak,No Leak,51
+BR_OL_0.47 LPS_A1,Orifice Leak,Circumferential Crack,50
+LO_CC_ND_A1,Circumferential Crack,No Leak,50
+LO_GL_0.47 LPS_A2,Gasket Leak,Gasket Leak,52
+LO_LC_ND_A2,Longitudinal Crack,Circumferential Crack,54
+LO_LC_Transient_A1,Longitudinal Crack,Circumferential Crack,52
+LO_LC_Transient_A2,Longitudinal Crack,Circumferential Crack,52
+LO_NL_0.18 LPS_A1,No Leak,Longitudinal Crack,50
+LO_NL_0.47 LPS_A2,No Leak,No Leak,51
+LO_OL_ND_A2,Orifice Leak,Longitudinal Crack,50
+LO_OL_Transient_A1,Orifice Leak,Circumferential Crack,51

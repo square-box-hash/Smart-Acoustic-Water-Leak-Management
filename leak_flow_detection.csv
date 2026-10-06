@@ -1,0 +1,5 @@
+leak_type,n_recordings,detection_rate,mean_vote_leak,size,flow
+Orifice Leak,16,0.438,0.534,,
+Gasket Leak,16,0.938,0.901,,
+Circumferential Crack,16,1.0,1.0,,
+Longitudinal Crack,16,1.0,0.995,,

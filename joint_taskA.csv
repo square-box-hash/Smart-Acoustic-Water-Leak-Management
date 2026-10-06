@@ -1,0 +1,33 @@
+trial_id,leak_type,experiment,y_true,y_pred,vote_pos,score
+BR_GL_0.18 LPS_A1,Gasket Leak,Branched|0.18 LPS|Gasket Leak,1,0,0.0,-0.7810786684879465
+BR_GL_0.18 LPS_A2,Gasket Leak,Branched|0.18 LPS|Gasket Leak,1,1,0.9,0.6632030978626978
+BR_GL_0.47 LPS_A1,Gasket Leak,Branched|0.47 LPS|Gasket Leak,1,1,0.6363636363636364,0.0037644501877552457
+BR_GL_0.47 LPS_A2,Gasket Leak,Branched|0.47 LPS|Gasket Leak,1,0,0.09090909090909091,-0.7640481265626213
+BR_GL_ND_A1,Gasket Leak,Branched|ND|Gasket Leak,1,1,1.0,1.0887205917025222
+BR_GL_ND_A2,Gasket Leak,Branched|ND|Gasket Leak,1,1,1.0,0.5792810611434085
+BR_GL_Transient_A1,Gasket Leak,Branched|Transient|Gasket Leak,1,1,1.0,0.7710478403546986
+BR_GL_Transient_A2,Gasket Leak,Branched|Transient|Gasket Leak,1,1,1.0,1.2435026467608516
+BR_NL_0.18 LPS_A1,No Leak,Branched|0.18 LPS|No Leak,0,0,0.0,-0.2362571596776357
+BR_NL_0.18 LPS_A2,No Leak,Branched|0.18 LPS|No Leak,0,0,0.18181818181818182,-0.4849143508788647
+BR_NL_0.47 LPS_A1,No Leak,Branched|0.47 LPS|No Leak,0,1,0.9,0.3856280148121575
+BR_NL_0.47 LPS_A2,No Leak,Branched|0.47 LPS|No Leak,0,0,0.09090909090909091,-0.2899877094066166
+BR_NL_ND_A1,No Leak,Branched|ND|No Leak,0,1,1.0,1.1021372175805777
+BR_NL_ND_A2,No Leak,Branched|ND|No Leak,0,0,0.1,-0.4742909198760786
+BR_NL_Transient_A1,No Leak,Branched|Transient|No Leak,0,0,0.36363636363636365,-0.24719472191568348
+BR_NL_Transient_A2,No Leak,Branched|Transient|No Leak,0,0,0.0,-0.5196943170680435
+LO_GL_0.18 LPS_A1,Gasket Leak,Looped|0.18 LPS|Gasket Leak,1,0,0.1,-0.23823561255472708
+LO_GL_0.18 LPS_A2,Gasket Leak,Looped|0.18 LPS|Gasket Leak,1,1,1.0,0.9983702390976454
+LO_GL_0.47 LPS_A1,Gasket Leak,Looped|0.47 LPS|Gasket Leak,1,1,1.0,1.0005772802079744
+LO_GL_0.47 LPS_A2,Gasket Leak,Looped|0.47 LPS|Gasket Leak,1,1,1.0,0.8945442210364848
+LO_GL_ND_A1,Gasket Leak,Looped|ND|Gasket Leak,1,1,1.0,1.0024172571251826
+LO_GL_ND_A2,Gasket Leak,Looped|ND|Gasket Leak,1,1,1.0,0.8941090883911087
+LO_GL_Transient_A1,Gasket Leak,Looped|Transient|Gasket Leak,1,1,0.6363636363636364,0.17725035501288988
+LO_GL_Transient_A2,Gasket Leak,Looped|Transient|Gasket Leak,1,1,1.0,0.9060184897792242
+LO_NL_0.18 LPS_A1,No Leak,Looped|0.18 LPS|No Leak,0,0,0.0,-0.8185260671264976
+LO_NL_0.18 LPS_A2,No Leak,Looped|0.18 LPS|No Leak,0,0,0.2727272727272727,-0.03959354633306518
+LO_NL_0.47 LPS_A1,No Leak,Looped|0.47 LPS|No Leak,0,0,0.0,-1.2022791498444014
+LO_NL_0.47 LPS_A2,No Leak,Looped|0.47 LPS|No Leak,0,0,0.0,-1.1455649599625017
+LO_NL_ND_A1,No Leak,Looped|ND|No Leak,0,0,0.0,-0.4162459276590882
+LO_NL_ND_A2,No Leak,Looped|ND|No Leak,0,1,1.0,0.8907074585464148
+LO_NL_Transient_A1,No Leak,Looped|Transient|No Leak,0,0,0.4,-0.11921025518417386
+LO_NL_Transient_A2,No Leak,Looped|Transient|No Leak,0,0,0.4,-0.4346572290311082

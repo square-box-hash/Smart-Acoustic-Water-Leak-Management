@@ -1,0 +1,81 @@
+trial_id,leak_type,y,network,state,channel,experiment,y_pred,vote_leak_fraction,mean_score
+BR_CC_0.18 LPS_A1,Circumferential Crack,1,Branched,0.18 LPS,A1,Branched|0.18 LPS|Circumferential Crack,1,1.0,0.6614284564541927
+BR_CC_0.18 LPS_A2,Circumferential Crack,1,Branched,0.18 LPS,A2,Branched|0.18 LPS|Circumferential Crack,1,1.0,0.8959431013299708
+BR_CC_0.47 LPS_A1,Circumferential Crack,1,Branched,0.47 LPS,A1,Branched|0.47 LPS|Circumferential Crack,1,1.0,1.2003631200771
+BR_CC_0.47 LPS_A2,Circumferential Crack,1,Branched,0.47 LPS,A2,Branched|0.47 LPS|Circumferential Crack,1,1.0,0.9169136262085011
+BR_CC_ND_A1,Circumferential Crack,1,Branched,ND,A1,Branched|ND|Circumferential Crack,1,1.0,0.9371076883892848
+BR_CC_ND_A2,Circumferential Crack,1,Branched,ND,A2,Branched|ND|Circumferential Crack,1,1.0,1.0821542798306707
+BR_CC_Transient_A1,Circumferential Crack,1,Branched,Transient,A1,Branched|Transient|Circumferential Crack,1,1.0,0.8526350302007688
+BR_CC_Transient_A2,Circumferential Crack,1,Branched,Transient,A2,Branched|Transient|Circumferential Crack,1,1.0,1.14747148793495
+BR_GL_0.18 LPS_A1,Gasket Leak,1,Branched,0.18 LPS,A1,Branched|0.18 LPS|Gasket Leak,1,1.0,0.17955909956707083
+BR_GL_0.18 LPS_A2,Gasket Leak,1,Branched,0.18 LPS,A2,Branched|0.18 LPS|Gasket Leak,1,0.9,0.9023696195438111
+BR_GL_0.47 LPS_A1,Gasket Leak,1,Branched,0.47 LPS,A1,Branched|0.47 LPS|Gasket Leak,1,0.8181818181818182,0.35008708312774217
+BR_GL_0.47 LPS_A2,Gasket Leak,1,Branched,0.47 LPS,A2,Branched|0.47 LPS|Gasket Leak,0,0.2727272727272727,-0.3958091079013047
+BR_GL_ND_A1,Gasket Leak,1,Branched,ND,A1,Branched|ND|Gasket Leak,1,1.0,1.0408058281097172
+BR_GL_ND_A2,Gasket Leak,1,Branched,ND,A2,Branched|ND|Gasket Leak,1,1.0,1.0028761546875797
+BR_GL_Transient_A1,Gasket Leak,1,Branched,Transient,A1,Branched|Transient|Gasket Leak,1,1.0,1.1465533920674733
+BR_GL_Transient_A2,Gasket Leak,1,Branched,Transient,A2,Branched|Transient|Gasket Leak,1,1.0,1.5694209047294527
+BR_LC_0.18 LPS_A1,Longitudinal Crack,1,Branched,0.18 LPS,A1,Branched|0.18 LPS|Longitudinal Crack,1,1.0,0.12941724736822716
+BR_LC_0.18 LPS_A2,Longitudinal Crack,1,Branched,0.18 LPS,A2,Branched|0.18 LPS|Longitudinal Crack,1,1.0,0.9149165438025431
+BR_LC_0.47 LPS_A1,Longitudinal Crack,1,Branched,0.47 LPS,A1,Branched|0.47 LPS|Longitudinal Crack,1,1.0,0.38127404636430756
+BR_LC_0.47 LPS_A2,Longitudinal Crack,1,Branched,0.47 LPS,A2,Branched|0.47 LPS|Longitudinal Crack,1,1.0,0.8879807394749939
+BR_LC_ND_A1,Longitudinal Crack,1,Branched,ND,A1,Branched|ND|Longitudinal Crack,1,1.0,1.0109125236879648
+BR_LC_ND_A2,Longitudinal Crack,1,Branched,ND,A2,Branched|ND|Longitudinal Crack,1,1.0,1.1920769524226495
+BR_LC_Transient_A1,Longitudinal Crack,1,Branched,Transient,A1,Branched|Transient|Longitudinal Crack,1,0.9166666666666666,1.026478420946875
+BR_LC_Transient_A2,Longitudinal Crack,1,Branched,Transient,A2,Branched|Transient|Longitudinal Crack,1,1.0,1.1936194290316593
+BR_NL_0.18 LPS_A1,No Leak,0,Branched,0.18 LPS,A1,Branched|0.18 LPS|No Leak,1,1.0,0.25757976773973745
+BR_NL_0.18 LPS_A2,No Leak,0,Branched,0.18 LPS,A2,Branched|0.18 LPS|No Leak,0,0.0,-0.7888169265063684
+BR_NL_0.47 LPS_A1,No Leak,0,Branched,0.47 LPS,A1,Branched|0.47 LPS|No Leak,1,1.0,0.6525201165668133
+BR_NL_0.47 LPS_A2,No Leak,0,Branched,0.47 LPS,A2,Branched|0.47 LPS|No Leak,0,0.2727272727272727,-0.20062994322455133
+BR_NL_ND_A1,No Leak,0,Branched,ND,A1,Branched|ND|No Leak,1,1.0,1.032254228964093
+BR_NL_ND_A2,No Leak,0,Branched,ND,A2,Branched|ND|No Leak,0,0.1,-0.7092823485008249
+BR_NL_Transient_A1,No Leak,0,Branched,Transient,A1,Branched|Transient|No Leak,0,0.45454545454545453,0.11231189745392113
+BR_NL_Transient_A2,No Leak,0,Branched,Transient,A2,Branched|Transient|No Leak,0,0.09090909090909091,-0.5113724332347828
+BR_OL_0.18 LPS_A1,Orifice Leak,1,Branched,0.18 LPS,A1,Branched|0.18 LPS|Orifice Leak,1,0.7,0.0714029109046598
+BR_OL_0.18 LPS_A2,Orifice Leak,1,Branched,0.18 LPS,A2,Branched|0.18 LPS|Orifice Leak,0,0.45454545454545453,0.1300812495438566
+BR_OL_0.47 LPS_A1,Orifice Leak,1,Branched,0.47 LPS,A1,Branched|0.47 LPS|Orifice Leak,1,1.0,2.2264640179775808
+BR_OL_0.47 LPS_A2,Orifice Leak,1,Branched,0.47 LPS,A2,Branched|0.47 LPS|Orifice Leak,0,0.2727272727272727,-0.4743490834823483
+BR_OL_ND_A1,Orifice Leak,1,Branched,ND,A1,Branched|ND|Orifice Leak,1,1.0,0.9723299926482182
+BR_OL_ND_A2,Orifice Leak,1,Branched,ND,A2,Branched|ND|Orifice Leak,1,0.9,0.754114738679685
+BR_OL_Transient_A1,Orifice Leak,1,Branched,Transient,A1,Branched|Transient|Orifice Leak,1,0.8181818181818182,0.9879094914004135
+BR_OL_Transient_A2,Orifice Leak,1,Branched,Transient,A2,Branched|Transient|Orifice Leak,0,0.2727272727272727,-0.47149942064802486
+LO_CC_0.18 LPS_A1,Circumferential Crack,1,Looped,0.18 LPS,A1,Looped|0.18 LPS|Circumferential Crack,1,1.0,0.9915704254275794
+LO_CC_0.18 LPS_A2,Circumferential Crack,1,Looped,0.18 LPS,A2,Looped|0.18 LPS|Circumferential Crack,1,1.0,1.0029145271656248
+LO_CC_0.47 LPS_A1,Circumferential Crack,1,Looped,0.47 LPS,A1,Looped|0.47 LPS|Circumferential Crack,1,1.0,0.9799352366247283
+LO_CC_0.47 LPS_A2,Circumferential Crack,1,Looped,0.47 LPS,A2,Looped|0.47 LPS|Circumferential Crack,1,1.0,1.0034348420951422
+LO_CC_ND_A1,Circumferential Crack,1,Looped,ND,A1,Looped|ND|Circumferential Crack,1,1.0,0.9542088580129169
+LO_CC_ND_A2,Circumferential Crack,1,Looped,ND,A2,Looped|ND|Circumferential Crack,1,1.0,1.0030646595860562
+LO_CC_Transient_A1,Circumferential Crack,1,Looped,Transient,A1,Looped|Transient|Circumferential Crack,1,1.0,0.9827264691953914
+LO_CC_Transient_A2,Circumferential Crack,1,Looped,Transient,A2,Looped|Transient|Circumferential Crack,1,1.0,1.0046130753468643
+LO_GL_0.18 LPS_A1,Gasket Leak,1,Looped,0.18 LPS,A1,Looped|0.18 LPS|Gasket Leak,1,0.7,0.11158465306836143
+LO_GL_0.18 LPS_A2,Gasket Leak,1,Looped,0.18 LPS,A2,Looped|0.18 LPS|Gasket Leak,1,1.0,1.0076368503027513
+LO_GL_0.47 LPS_A1,Gasket Leak,1,Looped,0.47 LPS,A1,Looped|0.47 LPS|Gasket Leak,1,1.0,1.0143154943627042
+LO_GL_0.47 LPS_A2,Gasket Leak,1,Looped,0.47 LPS,A2,Looped|0.47 LPS|Gasket Leak,1,1.0,1.008555127000056
+LO_GL_ND_A1,Gasket Leak,1,Looped,ND,A1,Looped|ND|Gasket Leak,1,1.0,1.0111166560854985
+LO_GL_ND_A2,Gasket Leak,1,Looped,ND,A2,Looped|ND|Gasket Leak,1,1.0,1.006912911671238
+LO_GL_Transient_A1,Gasket Leak,1,Looped,Transient,A1,Looped|Transient|Gasket Leak,1,0.7272727272727273,0.3102886675847439
+LO_GL_Transient_A2,Gasket Leak,1,Looped,Transient,A2,Looped|Transient|Gasket Leak,1,1.0,1.0081977090252934
+LO_LC_0.18 LPS_A1,Longitudinal Crack,1,Looped,0.18 LPS,A1,Looped|0.18 LPS|Longitudinal Crack,1,1.0,0.9997939877788365
+LO_LC_0.18 LPS_A2,Longitudinal Crack,1,Looped,0.18 LPS,A2,Looped|0.18 LPS|Longitudinal Crack,1,1.0,0.9994147104375539
+LO_LC_0.47 LPS_A1,Longitudinal Crack,1,Looped,0.47 LPS,A1,Looped|0.47 LPS|Longitudinal Crack,1,1.0,0.9989225577430885
+LO_LC_0.47 LPS_A2,Longitudinal Crack,1,Looped,0.47 LPS,A2,Looped|0.47 LPS|Longitudinal Crack,1,1.0,1.0022510082557623
+LO_LC_ND_A1,Longitudinal Crack,1,Looped,ND,A1,Looped|ND|Longitudinal Crack,1,1.0,1.0067395398946342
+LO_LC_ND_A2,Longitudinal Crack,1,Looped,ND,A2,Looped|ND|Longitudinal Crack,1,1.0,1.0026454564535379
+LO_LC_Transient_A1,Longitudinal Crack,1,Looped,Transient,A1,Looped|Transient|Longitudinal Crack,1,1.0,0.9878951929543693
+LO_LC_Transient_A2,Longitudinal Crack,1,Looped,Transient,A2,Looped|Transient|Longitudinal Crack,1,1.0,1.0048476783525944
+LO_NL_0.18 LPS_A1,No Leak,0,Looped,0.18 LPS,A1,Looped|0.18 LPS|No Leak,0,0.0,-0.21728004854507846
+LO_NL_0.18 LPS_A2,No Leak,0,Looped,0.18 LPS,A2,Looped|0.18 LPS|No Leak,1,1.0,0.3274114430914187
+LO_NL_0.47 LPS_A1,No Leak,0,Looped,0.47 LPS,A1,Looped|0.47 LPS|No Leak,0,0.0,-1.2907357991693187
+LO_NL_0.47 LPS_A2,No Leak,0,Looped,0.47 LPS,A2,Looped|0.47 LPS|No Leak,0,0.0,-1.2596676806096228
+LO_NL_ND_A1,No Leak,0,Looped,ND,A1,Looped|ND|No Leak,1,1.0,1.0230268990760683
+LO_NL_ND_A2,No Leak,0,Looped,ND,A2,Looped|ND|No Leak,1,1.0,0.8840117293858427
+LO_NL_Transient_A1,No Leak,0,Looped,Transient,A1,Looped|Transient|No Leak,0,0.5,0.20064092128250893
+LO_NL_Transient_A2,No Leak,0,Looped,Transient,A2,Looped|Transient|No Leak,0,0.4,-0.09550426173535788
+LO_OL_0.18 LPS_A1,Orifice Leak,1,Looped,0.18 LPS,A1,Looped|0.18 LPS|Orifice Leak,0,0.0,-0.2328637628185281
+LO_OL_0.18 LPS_A2,Orifice Leak,1,Looped,0.18 LPS,A2,Looped|0.18 LPS|Orifice Leak,0,0.0,-0.24862863128629653
+LO_OL_0.47 LPS_A1,Orifice Leak,1,Looped,0.47 LPS,A1,Looped|0.47 LPS|Orifice Leak,1,1.0,0.3189314914192698
+LO_OL_0.47 LPS_A2,Orifice Leak,1,Looped,0.47 LPS,A2,Looped|0.47 LPS|Orifice Leak,0,0.0,-1.8440547133918381
+LO_OL_ND_A1,Orifice Leak,1,Looped,ND,A1,Looped|ND|Orifice Leak,1,1.0,0.3570585776424735
+LO_OL_ND_A2,Orifice Leak,1,Looped,ND,A2,Looped|ND|Orifice Leak,0,0.4,0.013387679022958227
+LO_OL_Transient_A1,Orifice Leak,1,Looped,Transient,A1,Looped|Transient|Orifice Leak,0,0.2727272727272727,-0.5342215607814492
+LO_OL_Transient_A2,Orifice Leak,1,Looped,Transient,A2,Looped|Transient|Orifice Leak,0,0.45454545454545453,0.03474697335788996
